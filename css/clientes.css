@@ -1,0 +1,47 @@
+.formulario-pesquisa-clientes {
+    margin-top: 3rem;
+    margin-left: 10%;
+    padding-left: 15px; }
+.formulario-pesquisa-clientes input {
+    background-color: #b9b6d6;
+    color: #FFF;
+    padding: 5px;
+    border-radius: 3px; }
+
+.page-clientes li {
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    border: 1px solid #9996C3;
+    margin: 15px;
+    padding: 15px;
+    position: relative; }
+
+.page-clientes a {
+    position: absolute;
+    top: 15px;
+    padding: 5px;
+    color: #FFF;
+    background-color: #7976b0; }
+
+.page-clientes img {
+    width: 100%;
+    height: 30vh; }
+
+.page-clientes .row {
+    margin: auto;
+    padding: auto; }
+
+.page-clientes .lista-clientes {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: 0 10%; }
+
+.page-clientes .titulo-clientes {
+    font-weight: 600; }
+
+.lista-clientes {
+    margin-bottom: 4rem !important;
+}
